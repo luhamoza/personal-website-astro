@@ -42,11 +42,11 @@ export const SOCIALS: SocialObjects = [
     name: "LinkedIn",
     href: "https://www.linkedin.com/in/luqman-hafizi-mohd-zawawi-b33b09120/",
     linkTitle: `${SITE.title} on LinkedIn`,
-    active: true,
+    active: false,
   },
   {
     name: "Mail",
-    href: "mailto:luqmanhafizimohdzawawi@gmail.com",
+    href: "mailto:luhamoza@gmail.com",
     linkTitle: `Send an email to ${SITE.title}`,
     active: true,
   },
